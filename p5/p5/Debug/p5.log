@@ -1,0 +1,4 @@
+﻿  p5.cpp
+c:\users\salma essam\source\repos\p5\p5\p5.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\salma essam\source\repos\p5\p5\p5.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  p5.vcxproj -> C:\Users\Salma Essam\source\repos\p5\Debug\p5.exe
